@@ -1,0 +1,65 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\times\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js start
+
+PATH: 
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\ProgramData\Miniconda3;C:\ProgramData\Miniconda3\Library\mingw-w64\bin;C:\ProgramData\Miniconda3\Library\usr\bin;C:\ProgramData\Miniconda3\Library\bin;C:\ProgramData\Miniconda3\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\CMake\bin;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\Go\bin;C:\Users\times\AppData\Local\Microsoft\WindowsApps;C:\Users\times\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\times\AppData\Local\Programs\Fiddler;C:\Users\times\AppData\Roaming\npm;C:\Users\times\AppData\Roaming\Composer\vendor\bin;C:\Users\times\.dotnet\tools;C:\Users\times\AppData\Local\.meteor;C:\tools\dart-sdk\bin;C:\Users\times\AppData\Roaming\Pub\Cache\bin;C:\Users\times\go\bin;C:\tools\flutter\bin;C:\Users\times\AppData\Local\Hasura\;C:\Program Files\heroku\bin
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  10.15.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Projects\svelte-tailwind-lightning\package.json: Unexpected token / in JSON at position 1032
+      at JSON.parse (<anonymous>)
+      at C:\Users\times\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\times\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:304:30)
+      at C:\Users\times\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:315:13
+
+npm manifest: 
+  {
+      "name": "svelte-lighting",
+      "author": "timeshift",
+      "description": "hot reload for svelte",
+      "scripts": {
+          "start": "cross-env NODE_ENV=development nollup -c --hot --content-base public --port 9001",
+          "build": " cross-env NODE_ENV=production rollup -c"
+      },
+      "repository": {
+          "type": "git",
+          "url": "https://github.com/timeshift92/svelte-lighting-boirplate"
+      },
+      "license": "MIT",
+      "devDependencies": {
+          "@babel/core": "^7.1.6",
+          "@babel/preset-env": "^7.5.5",
+          "autoprefixer": "^9.6.1",
+          "cross-env": "^5.2.0",
+          "nollup": "https://github.com/timeshift92/nollup#master",
+          "rollup": "^1.1.1",
+          "rollup-plugin-babel": "^4.0.3",
+          "rollup-plugin-commonjs-alternate": "0.0.3",
+          "rollup-plugin-node-resolve": "^3.4.0",
+          "rollup-plugin-postcss": "^2.0.3",
+          "rollup-plugin-replace": "^2.1.0",
+          "rollup-plugin-svelte": "^5.1.0",
+          "svelte": "^3.6.8",
+          "tailwindcss": "^1.0.5"
+      },
+      // "browserslist": [
+      //     "last 1 version",
+      //     "> 1%",
+      //     "IE 10"
+      // ]
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
