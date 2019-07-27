@@ -639,20 +639,20 @@ function create_if_block(ctx) {
 			if (default_slot) default_slot.c();
 			t4 = space();
 			hr = element("hr");
-			attr(div0, "class", "fixed top-0 left-0 w-full h-full bg-gray-100");
+			attr(div0, "class", "fixed top-0 left-0 w-full h-full bg-gray-100 opacity-75");
 			add_location(div0, file, 28, 2, 648);
-			attr(button, "class", "self-end  text-xs  pr-1 ");
-			add_location(button, file, 31, 4, 1014);
+			attr(button, "class", "self-end  text-xs  pr-1 text-gray-500 ");
+			add_location(button, file, 31, 4, 1025);
 			attr(span, "class", "w-full h-1 bg-gray-100  shadow ");
-			add_location(span, file, 35, 4, 1128);
+			add_location(span, file, 35, 4, 1153);
 
 			attr(div1, "class", "p-4 pb-0");
-			add_location(div1, file, 36, 4, 1187);
-			add_location(hr, file, 39, 4, 1263);
+			add_location(div1, file, 36, 4, 1212);
+			add_location(hr, file, 39, 4, 1288);
 			attr(div2, "class", "flex flex-col  max-w-2xl  bg-white justify-center items-end");
-			add_location(div2, file, 30, 4, 899);
+			add_location(div2, file, 30, 4, 910);
 			attr(div3, "class", "flex fixed flex-col justify-center items-center  inset-0");
-			add_location(div3, file, 29, 4, 787);
+			add_location(div3, file, 29, 4, 798);
 
 			dispose = [
 				listen(div0, "click", ctx.click_handler_1),
