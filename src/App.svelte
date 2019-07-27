@@ -3,87 +3,37 @@
 </script>
 
 <div class=" container mx-auto">
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
-asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg
+  asdl;gknasd;lkjghasdlk;jg
   <Base.Modal>
     <div class="md:flex">
       <div class="md:flex-shrink-0">
         <img
-          class="rounded-lg md:w-56"
+          class="rounded-lg md:w-56 "
           src="https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80"
           alt="Woman paying for a purchase" />
       </div>

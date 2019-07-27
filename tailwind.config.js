@@ -31,7 +31,7 @@ module.exports = {
     left: {
       '0': 0,
       '1/2': '50%',
-      '1/4': '25%', 
+      '1/4': '25%',
       'auto': 'auto'
     },
     transform: { // defaults to this value
@@ -90,18 +90,22 @@ module.exports = {
       'tl': 'top left',
     },
   },
-  variants: { // all the following default to ['responsive']
-    inset: ['responsive', 'hover', 'focus'],
-    transform: ['responsive'],
-    transformOrigin: ['responsive'],
-    translate: ['responsive'],
-    scale: ['responsive'],
-    rotate: ['responsive'],
-    skew: ['responsive'],
-    perspective: ['responsive'],
-    perspectiveOrigin: ['responsive'],
-    transformStyle: ['responsive'],
-    backfaceVisibility: ['responsive'],
+  extend: {
+
+
+    variants: { // all the following default to ['responsive']
+      inset: ['responsive', 'hover', 'focus'],
+      transform: ['responsive'],
+      transformOrigin: ['responsive'],
+      translate: ['responsive'],
+      scale: ['responsive'],
+      rotate: ['responsive'],
+      skew: ['responsive'],
+      perspective: ['responsive'],
+      perspectiveOrigin: ['responsive'],
+      transformStyle: ['responsive'],
+      backfaceVisibility: ['responsive'],
+    },
   },
   plugins: [
     require('tailwindcss-transforms')({

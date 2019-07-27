@@ -28,7 +28,7 @@
 {#if showModal}
   <div transition:fade={{ duration: 250 }} class="fixed top-0 left-0 w-full h-full bg-gray-100" on:click={() => (showModal = false)} />
     <div on:click={() => handleClose(false)} class="flex fixed flex-col justify-center items-center  inset-0">
-    <div transition:fade={{ duration: 250 }} class="flex flex-col max-w-2xl  bg-white justify-center items-end">
+    <div transition:fade={{ duration: 250 }} class="flex flex-col  max-w-2xl  bg-white justify-center items-end">
     <button class="self-end  text-xs  pr-1 " on:click={() => (showModal = false)}>
       X
 

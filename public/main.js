@@ -642,14 +642,14 @@ function create_if_block(ctx) {
 			attr(div0, "class", "fixed top-0 left-0 w-full h-full bg-gray-100");
 			add_location(div0, file, 28, 2, 648);
 			attr(button, "class", "self-end  text-xs  pr-1 ");
-			add_location(button, file, 31, 4, 1013);
+			add_location(button, file, 31, 4, 1014);
 			attr(span, "class", "w-full h-1 bg-gray-100  shadow ");
-			add_location(span, file, 35, 4, 1127);
+			add_location(span, file, 35, 4, 1128);
 
 			attr(div1, "class", "p-4 pb-0");
-			add_location(div1, file, 36, 4, 1186);
-			add_location(hr, file, 39, 4, 1262);
-			attr(div2, "class", "flex flex-col max-w-2xl  bg-white justify-center items-end");
+			add_location(div1, file, 36, 4, 1187);
+			add_location(hr, file, 39, 4, 1263);
+			attr(div2, "class", "flex flex-col  max-w-2xl  bg-white justify-center items-end");
 			add_location(div2, file, 30, 4, 899);
 			attr(div3, "class", "flex fixed flex-col justify-center items-center  inset-0");
 			add_location(div3, file, 29, 4, 787);
@@ -954,7 +954,7 @@ var Base = {
 
 const file$1 = "src\\App.svelte";
 
-// (82:2) <Base.Modal>
+// (32:2) <Base.Modal>
 function create_default_slot(ctx) {
 	var div3, div0, img, t0, div2, div1, t2, a, t4, p;
 
@@ -973,23 +973,23 @@ function create_default_slot(ctx) {
 			t4 = space();
 			p = element("p");
 			p.textContent = "Getting a new business off the ground is a lot of hard work. Here are\r\n          five ideas you can use to find your first customers.";
-			attr(img, "class", "rounded-lg md:w-56");
+			attr(img, "class", "rounded-lg md:w-56 ");
 			attr(img, "src", "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80");
 			attr(img, "alt", "Woman paying for a purchase");
-			add_location(img, file$1, 84, 8, 2238);
+			add_location(img, file$1, 34, 8, 2240);
 			attr(div0, "class", "md:flex-shrink-0");
-			add_location(div0, file$1, 83, 6, 2198);
+			add_location(div0, file$1, 33, 6, 2200);
 			attr(div1, "class", "uppercase tracking-wide text-sm text-indigo-600 font-bold");
-			add_location(div1, file$1, 90, 8, 2543);
+			add_location(div1, file$1, 40, 8, 2546);
 			attr(a, "href", "#");
 			attr(a, "class", "block mt-1 text-lg leading-tight font-semibold text-gray-900\r\n          hover:underline");
-			add_location(a, file$1, 93, 8, 2661);
+			add_location(a, file$1, 43, 8, 2664);
 			attr(p, "class", "mt-2 text-gray-600");
-			add_location(p, file$1, 99, 8, 2866);
+			add_location(p, file$1, 49, 8, 2869);
 			attr(div2, "class", "mt-4 md:mt-0 md:ml-6");
-			add_location(div2, file$1, 89, 6, 2499);
+			add_location(div2, file$1, 39, 6, 2502);
 			attr(div3, "class", "md:flex");
-			add_location(div3, file$1, 82, 4, 2169);
+			add_location(div3, file$1, 32, 4, 2171);
 		},
 
 		m: function mount(target, anchor) {
@@ -1027,7 +1027,7 @@ function create_fragment$1(ctx) {
 	return {
 		c: function create() {
 			div = element("div");
-			t = text("asdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\nasdl;gknasd;lkjghasdlk;jg\r\n  ");
+			t = text("asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg asdl;gknasd;lkjghasdlk;jg\r\n  asdl;gknasd;lkjghasdlk;jg\r\n  ");
 			base_modal.$$.fragment.c();
 			attr(div, "class", " container mx-auto");
 			add_location(div, file$1, 4, 0, 63);
