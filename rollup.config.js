@@ -4,6 +4,8 @@ let commonjs = require('rollup-plugin-commonjs-alternate');
 let replace = require('rollup-plugin-replace');
 let svelte = require('rollup-plugin-svelte');
 const postcss = require('rollup-plugin-postcss')
+import serve from 'rollup-plugin-serve'
+import livereload from 'rollup-plugin-livereload'
 const production = process.env.NODE_ENV === 'production'
 
 module.exports = {
@@ -16,6 +18,11 @@ module.exports = {
         assetFileNames: '[name][extname]'
     },
     plugins: [
+        serve({
+            contentBase: 'public',
+            // port: 9001,
+        }),      // index.html should be in root of project
+        livereload(),
         svelte({
             dev: !production,
             emitCss: true,
@@ -23,12 +30,15 @@ module.exports = {
                 css.write('public/styles.css')
             }) : false
         }),
-        postcss(),
+
         replace({
             'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV),
         }),
         babel(),
         node_resolve(),
         commonjs(),
+        postcss({
+            extract: 'public/styles.css'
+        }),
     ]
 }

@@ -5,16 +5,16 @@ let app = new App({
     target: document.querySelector("#app")
 });
 
-module.hot.accept((dt) => {
-    document.getElementById('main').remove();
-    let script = document.createElement('script');
-    script.src = '/main.js'
-    script.id = 'main';
-    script.async = true;
+// module.hot.accept((dt) => {
+//     document.getElementById('main').remove();
+//     let script = document.createElement('script');
+//     script.src = '/main.js'
+//     script.id = 'main';
+//     script.async = true;
 
-    document.body.appendChild(script);
-    dt.close();
-});
+//     document.body.appendChild(script);
+//     dt.close();
+// });
 
 
 export default app;
